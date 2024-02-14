@@ -2,6 +2,9 @@
 
 ![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
 
+My solution to the challenge:
+![My solution to the challenge](./design/my-work.png)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
